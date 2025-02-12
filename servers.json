@@ -1,7 +1,7 @@
   "servers": [
     {
-            "name": "z3r0_Anisette",
-            "address": "https://zer0-anisette-0ewx.onrender.com"
+      "name": "z3r0_Anisette",
+      "address": "https://zer0-anisette-0ewx.onrender.com"
     }
     {
       "name": "SideStore",
