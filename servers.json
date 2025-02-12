@@ -1,8 +1,5 @@
+{
   "servers": [
-    {
-      "name": "z3r0_Anisette",
-      "address": "https://zer0-anisette-0ewx.onrender.com"
-    }
     {
       "name": "SideStore",
       "address": "https://ani.sidestore.io"
@@ -63,4 +60,6 @@
       "name": "Realmzer",
       "address": "https://anisette.realmzer.xyz/"
     }
-  ]
+  ],
+  "cache": "https://servers.sidestore.io/servers.json.hash"
+}
